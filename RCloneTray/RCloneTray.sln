@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RCloneTray", "RCloneTray.csproj", "{86CB458E-C510-4543-8C6C-42F34E0DD80D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "RCloneTraySetup", "..\RCloneTraySetup\RCloneTraySetup.vdproj", "{D29404B8-7AD1-4613-912D-A09EC3BA222B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86CB458E-C510-4543-8C6C-42F34E0DD80D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86CB458E-C510-4543-8C6C-42F34E0DD80D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86CB458E-C510-4543-8C6C-42F34E0DD80D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86CB458E-C510-4543-8C6C-42F34E0DD80D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D29404B8-7AD1-4613-912D-A09EC3BA222B}.Debug|Any CPU.ActiveCfg = Debug
+		{D29404B8-7AD1-4613-912D-A09EC3BA222B}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B25309D-F674-4BAC-A7DB-833D6963120B}
+	EndGlobalSection
+EndGlobal

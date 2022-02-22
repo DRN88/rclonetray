@@ -1,0 +1,17 @@
+C:\Users\gorkhaan\source\repos\RCloneTray\RCloneTray\bin\Release\net6.0-windows\RCloneTray.exe
+C:\Users\gorkhaan\source\repos\RCloneTray\RCloneTray\bin\Release\net6.0-windows\RCloneTray.dll.config
+C:\Users\gorkhaan\source\repos\RCloneTray\RCloneTray\bin\Release\net6.0-windows\RCloneTray.deps.json
+C:\Users\gorkhaan\source\repos\RCloneTray\RCloneTray\bin\Release\net6.0-windows\RCloneTray.runtimeconfig.json
+C:\Users\gorkhaan\source\repos\RCloneTray\RCloneTray\bin\Release\net6.0-windows\RCloneTray.dll
+C:\Users\gorkhaan\source\repos\RCloneTray\RCloneTray\bin\Release\net6.0-windows\ref\RCloneTray.dll
+C:\Users\gorkhaan\source\repos\RCloneTray\RCloneTray\bin\Release\net6.0-windows\RCloneTray.pdb
+C:\Users\gorkhaan\source\repos\RCloneTray\RCloneTray\obj\Release\net6.0-windows\RCloneTray.frmRCloneTray.resources
+C:\Users\gorkhaan\source\repos\RCloneTray\RCloneTray\obj\Release\net6.0-windows\RCloneTray.csproj.GenerateResource.cache
+C:\Users\gorkhaan\source\repos\RCloneTray\RCloneTray\obj\Release\net6.0-windows\RCloneTray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gorkhaan\source\repos\RCloneTray\RCloneTray\obj\Release\net6.0-windows\RCloneTray.AssemblyInfoInputs.cache
+C:\Users\gorkhaan\source\repos\RCloneTray\RCloneTray\obj\Release\net6.0-windows\RCloneTray.AssemblyInfo.cs
+C:\Users\gorkhaan\source\repos\RCloneTray\RCloneTray\obj\Release\net6.0-windows\RCloneTray.csproj.CoreCompileInputs.cache
+C:\Users\gorkhaan\source\repos\RCloneTray\RCloneTray\obj\Release\net6.0-windows\RCloneTray.dll
+C:\Users\gorkhaan\source\repos\RCloneTray\RCloneTray\obj\Release\net6.0-windows\ref\RCloneTray.dll
+C:\Users\gorkhaan\source\repos\RCloneTray\RCloneTray\obj\Release\net6.0-windows\RCloneTray.pdb
+C:\Users\gorkhaan\source\repos\RCloneTray\RCloneTray\obj\Release\net6.0-windows\RCloneTray.genruntimeconfig.cache
